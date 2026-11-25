@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+# Se generan solos al ejecutar el juego
+Level1/assets/sprites/
